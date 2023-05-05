@@ -1,6 +1,6 @@
 {
   "name": "alchemy-badge",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "AlchemyBadge is a customizable badge component for React that allows you to display information in a visually appealing manner. With Alchemy Badge, you can easily create badges with custom text, colors, and icons, making it perfect for displaying user information, status updates, or any other type of data.",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
@@ -10,6 +10,7 @@
   "keywords": ["Alchemy", "Alchemy-Badge"],
   "author": "王聪 <congwang@blocksec.com>",
   "license": "MIT",
+  "types": "dist/index.d.ts",
   "devDependencies": {
     "typescript": "^5.0.4"
   },
